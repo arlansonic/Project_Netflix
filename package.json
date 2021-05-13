@@ -1,0 +1,18 @@
+{
+  "name": "netflix",
+  "version": "1.0.0",
+  "description": "Practices Netflix",
+  "main": "index.js",
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "express": "^4.17.1",
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "Netflix": "http-server ../Netflix -c-1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
